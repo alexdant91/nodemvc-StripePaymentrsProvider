@@ -1,0 +1,13 @@
+{
+  "name": "@nodemvc/stripe-payments-provider",
+  "version": "1.0.0",
+  "description": "Stripe payments api plugin for NodeMVC framework",
+  "main": "index.js",
+  "repository": "https://github.com/alexdant91/nodemvc-stripe-payments-provider",
+  "author": "Alessandro D'Antoni <alexdant91@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "stripe": "^8.137.0"
+  }
+}
