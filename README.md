@@ -26,4 +26,4 @@ stripe.customers.create({
 }).then(customer => console.log(customer.id)).catch(error => console.error(error));
 ```
 
-Checkout more [here](https://github.com/stripe/stripe-node).
+Check out more [here](https://github.com/stripe/stripe-node).
