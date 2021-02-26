@@ -1,6 +1,6 @@
 class StripePaymentsProvider {
-  constructor() {
-
+  static init = (stripe_key = null) => {
+    return require('stripe')(stripe_key);
   }
 }
 
